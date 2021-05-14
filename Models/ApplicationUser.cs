@@ -23,6 +23,6 @@ namespace historial_blockchain.Models
 
         public virtual Hospital Hospital { get; set; }
 
-        public ICollection<Consulta> Consultas { get; set; }
+      //  public ICollection<Consulta> Consultas { get; set; }
     }
 }
